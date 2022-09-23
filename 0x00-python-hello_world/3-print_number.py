@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-umber = 98
-print(f"{umber} Battery street")
+new_number = number = 98
+print(f"{new_number} Battery street")
